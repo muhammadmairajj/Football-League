@@ -4,5 +4,4 @@
 - All images, data and assets belongs to the [Premier League](https://www.premierleague.com/)
 - Clone, run `npm install` and `npm run dev` to view
 
-![alt league-table-gif](https://media.giphy.com/media/3o6vXHizm27iUGXdJu/giphy.gif)
 
